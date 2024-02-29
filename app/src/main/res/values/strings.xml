@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="vansh">Vansh</string>
+    <string name="roll">Roll</string>
+    <string name="_1">1</string>
+    <string name="flip_the_dice">Flip The Dice</string>
+</resources>
